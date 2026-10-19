@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zen-pharma-backend
 
 Spring Boot microservices monorepo for the Zen Pharma platform. Contains 7 backend services built with Java 17 and deployed to AWS EKS via GitOps (ArgoCD).
@@ -168,3 +169,7 @@ See [`zen-infra/docs/FULL-DEPLOYMENT-GUIDE.md`](https://github.com/your-github-u
 2. Install K8s prerequisites (scripts in zen-infra)
 3. CI pipeline (this repo — auto-triggered on push to develop)
 4. ArgoCD CD (zen-gitops — ArgoCD watches this after step 2 setup)
+=======
+# backend
+for all 8 microservices
+>>>>>>> a0e8e3ade485e5b46c80ac2609a0e7eba64d529f
